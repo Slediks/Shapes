@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewwuNGOWR2E=",
+  "success": true,
+  "projectFilePath": "E:\\Coding\\Shapes\\Shapes\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alzyk\\.nuget\\packages\\csfml\\2.6.1\\csfml.2.6.1.nupkg.sha512",
+    "C:\\Users\\alzyk\\.nuget\\packages\\sfml.audio\\2.6.0\\sfml.audio.2.6.0.nupkg.sha512",
+    "C:\\Users\\alzyk\\.nuget\\packages\\sfml.graphics\\2.6.0\\sfml.graphics.2.6.0.nupkg.sha512",
+    "C:\\Users\\alzyk\\.nuget\\packages\\sfml.net\\2.6.0\\sfml.net.2.6.0.nupkg.sha512",
+    "C:\\Users\\alzyk\\.nuget\\packages\\sfml.system\\2.6.0\\sfml.system.2.6.0.nupkg.sha512",
+    "C:\\Users\\alzyk\\.nuget\\packages\\sfml.window\\2.6.0\\sfml.window.2.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
